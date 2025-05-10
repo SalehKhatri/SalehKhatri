@@ -34,7 +34,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/salehkhatri" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://twitter.com/salehdotdev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.linkedin.com/in/salehkhatri/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
