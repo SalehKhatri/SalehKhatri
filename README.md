@@ -1,57 +1,83 @@
-<h1 align="center">Hey there 👋, I'm Saleh Khatri</h1>
-<h3 align="center">Full-Stack Developer | MSCS @ Northeastern University, Boston 🎓</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Frontend+Focused,+Backend+Capable;Grad+Student+%40+Northeastern;Always+learning+new+things!&center=true&width=500&height=45" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Currently pursuing my **MS in Computer Science** at **Northeastern University**, Boston
-- 💻 Full-stack developer with a focus on the **MERN stack** — comfortable across the frontend, but equally at home shipping backend/API work
-- 🛠️ Tools I love: `VS Code`, `Tailwind`, `NextAuth`, `Prisma`, `ShadCN`
-- 🌱 Currently exploring: system design, cloud infrastructure, and writing cleaner backend architecture
-- 🌐 Portfolio: [**salehkhatri.tech**](https://salehkhatri.tech)
-- 📬 Reach me at: **salehkhatri29@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,tailwind,git,prisma,figma,docker)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalehKhatri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehKhatri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalehKhatri&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/SalehKhatri/count.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=200&section=header&text=Saleh%20Khatri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MSCS%20%40%20Northeastern&descAlignY=58&descSize=18" />
 
-[![wakatime](https://wakatime.com/badge/user/c5d31f5f-3d90-4e8d-b132-9461d2156069.svg)](https://wakatime.com/@c5d31f5f-3d90-4e8d-b132-9461d2156069)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Frontend+Focused%2C+Backend+Capable;Grad+Student+%40+Northeastern;Turning+ideas+into+shipped+products" />
 
 </div>
 
----
+<br/>
 
-### 🌐 Connect with Me
+## 👤 About
 
-<p align="left">
-  <a href="https://twitter.com/salehdotdev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.linkedin.com/in/salehkhatri/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+\`\`\`ts
+const saleh = {
+  role: "Full-Stack Developer",
+  academics: "MS in Computer Science @ Northeastern University, Boston",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "TypeScript"],
+  currentlyExploring: ["System Design", "Cloud Infra", "Clean Architecture"],
+  motto: "Build it clean, ship it fast, learn something new every time.",
+};
+\`\`\`
 
-<p align="center"><i>Open to internship/new-grad opportunities in software engineering — always happy to connect!</i></p>
+🌐 Portfolio &nbsp;→&nbsp; [**salehkhatri.tech**](https://salehkhatri.tech)
+📬 Email &nbsp;→&nbsp; **salehkhatri29@gmail.com**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalehKhatri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehKhatri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br/>
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/salehdotdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salehkhatri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://salehkhatri.tech)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehkhatri29@gmail.com)
+
+</div>
+
+<div align="center">
+
+<i>Open to internship / new-grad software engineering opportunities — let's connect.</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer" />
